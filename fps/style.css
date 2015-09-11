@@ -1,0 +1,293 @@
+
+body
+{
+		font-family: 'Lato', sans-serif;
+		background: url(skulls.png); /* This pattern is downloaded from www.subtlepatterns.com*/
+		color: white;
+}
+
+a:link
+{
+	color:white;
+	text-decoration: none;
+	}
+
+a:visited
+{
+		color:white;
+	}
+
+a:hover
+{
+		color: yellow;
+	}
+
+	a	{color:inherit;}
+	
+	
+#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: grey;
+	}
+	#logo
+	{
+		background-color: grey;
+		border-bottom-width: 10px;
+		border-bottom-style: solid;
+		border-bottom-color: beige;
+		padding: 5px;
+		
+	}
+	#nav
+	{
+		float: left;
+		background-color: grey;
+		min-width: 150px;
+		min-height: 700px;
+		padding: 15px;
+		letter-spacing: 4px;
+		margin-top: 5px;
+		
+	}
+
+	
+	#aktualnosci
+	{
+		background-color: orange;
+		position: relative;
+		color: black;
+	}
+	
+	#aktualnosci:hover 
+	{ 
+	color: orange; 
+	}
+ 
+	#aktualnosci:hover:after 
+	{
+    color: red;
+	
+    }
+	
+	#sprawozdania
+	{
+		background-color: orange;
+		
+	}
+	
+	#realizacje
+	
+	{
+		background-color: orange;
+		
+	}
+	
+	#statut
+	
+	{
+		background-color: orange;
+		
+	}
+	
+	#kontakt
+	{
+		background-color: orange;
+		
+	}
+	
+	#Rada
+	{
+		background-color: orange;
+		
+	}
+	
+	
+	#Partnerzy
+	{
+		background-color: orange;
+	}
+	
+	
+	
+	.option
+	{
+		vertical-align: middle;
+		min-width: 50px;
+		min-height: 30px;
+		padding: 4px;
+		font-size: 18px;	
+		border-bottom: 2px dotted #444444;
+		
+	}
+	
+	.option:hover
+	{ 
+		background-color: darkgrey;
+		cursor: pointer;
+		color: black;		
+	}
+				
+	#dlon
+	{
+		margin-bottom: 10px;
+		
+	}
+	
+	#content
+	{ 
+		background: url(skulls.png); /* This pattern is downloaded from www.subtlepatterns.com*/;
+		float: left;
+		width: 580px;
+		min-height: 700px;
+		padding: 16px;
+		padding-top: 0px;
+		color: orange;
+		
+	}
+	
+		div.akt
+		{
+			color: whitesmoke;
+			border-left-style: solid;
+			border-left-width: thick;
+			border-left-color: orange;
+			border-right-style: solid;
+			border-right-width: thick;
+			border-right-color: orange;
+			cursor: pointer;
+			background: url(skulls.png); /* This pattern is downloaded from www.subtlepatterns.com*/
+			}
+			
+		#dane
+		{
+		background-color: orange;
+		padding: 10px;	
+		min-height: 60px;
+		text-align: center;
+		}
+		
+		#akt0
+	{
+		background-color: orange;
+		padding: 10px;	
+		min-height: 60px;
+		text-align: center;
+		
+	}
+
+			
+		#akt1
+	{
+		
+		padding: 10px;	
+		min-height: 60px;
+		background-color: grey;
+	}
+	#akt1:hover
+	{
+		background-color: orange;
+				
+	}
+		#akt2
+	{
+		background-color: grey;
+		padding: 10px;	
+		min-height: 60px;
+				
+	}
+	
+	#akt2:hover
+	{
+		background-color: orange;
+				
+	}
+		#akt3
+	{
+		background-color: grey;
+		padding: 10px;	
+		min-height: 60px;
+				
+	}
+	#akt3:hover
+	{
+		background-color: orange;
+		
+		
+	}
+		#akt4
+	{
+		background-color: grey;
+		padding: 10px;	
+		min-height: 60px;
+		
+	}
+	#akt4:hover
+	{
+		background-color: orange;
+				
+	}
+	
+	#akt5
+	{
+		background-color: grey;
+		padding: 10px;	
+		min-height: 60px;
+		
+	}
+	#akt5:hover
+	{
+		background-color: orange;
+				
+	}
+	
+	#akt6
+	{
+		background-color: grey;
+		padding: 10px;	
+		min-height: 60px;
+		
+	}
+	#akt6:hover
+	{
+		background-color: orange;
+				
+	}
+	
+	#akt7
+	{
+		background-color: grey;
+		padding: 10px;	
+		min-height: 60px;
+		
+	}
+	#akt7:hover
+	{
+		background-color: orange;
+				
+	}
+		
+	#polecamy
+	{ 
+		float: left;
+		background-color: grey;
+		width: 150px;
+		min-height: 700px;
+		padding: 15px;
+		text-align: center;
+		
+		
+	}
+	
+	#footer
+	{
+		clear: both;
+		background-color: grey;
+		padding: 20px;
+		text-align: center;
+		border-top-style: solid;
+		border-top-width: 10px;
+		border-top-color: beige;
+	}
